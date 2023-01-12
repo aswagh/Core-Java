@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.sql.rowset.serial.SQLOutputImpl"/>
+    <fullyQualifiedTypeName name="javax.security.auth.callback.ConfirmationCallback"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.standard.Destination"/>
+    <fullyQualifiedTypeName name="examples.StringOps.StringBasicOps"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.text.Normalizer.Form"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="javax.xml.transform.TransformerFactoryConfigurationError"/>
+    <fullyQualifiedTypeName name="examples.InheritanceConcepts.ParentClass"/>
+    <fullyQualifiedTypeName name="java.security.ProtectionDomain"/>
+    <fullyQualifiedTypeName name="examples.InheritanceConcepts.ChildClass"/>
+</qualifiedTypeNameHistroy>
